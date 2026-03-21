@@ -1,2 +1,3 @@
-# lite-project-planner-nwv9
+# Lite Project Planner Nwv9
+
 A repository to test GitHub automation for issue management.
